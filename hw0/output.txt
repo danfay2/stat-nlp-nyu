@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Daniel
+   last: Fay
+email: danfay@gmail.com
+leaderboard: dpf
